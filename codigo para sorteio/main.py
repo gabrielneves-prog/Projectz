@@ -11,4 +11,4 @@ while contador < 5:
     premio = random.sample(premios, k=1)
     convidado = random.sample(convidados, k=1)
     contador += 1
-    print(f'{convidado} recebeu {premio}')
+    print(f'{convidado} recebeu {premio}') 
